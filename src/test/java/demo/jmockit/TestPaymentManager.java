@@ -6,6 +6,11 @@ import mockit.Expectations;
 import mockit.Injectable;
 import mockit.Tested;
 
+/**
+ * Code that demonstrates Excpetion handling test case scenario
+ * 
+ */
+
 public class TestPaymentManager {
 
 	@Tested
